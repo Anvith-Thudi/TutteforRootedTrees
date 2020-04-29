@@ -10,3 +10,4 @@
 
 # I've not tested the converter in its current format, but it's simple enough that I assume it will work.
 
+# Any possible improvements to the run time of the algorithm/code would be greatly appreciated
