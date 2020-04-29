@@ -6,5 +6,5 @@
 
 # I've tested it substantially, and have had no issues. However, by the NP nature of finding and iterating over the subgraphs of a tree, the code becomes unreasonable for trees size 30 and over; at size 29 it takes me- using an average laptop and pycharm- on average half an hour to compute the polynomial.
 
-# I also included a converter from the simplified polynomial to an sheet, where it form a matrix with column = # of non-leaf edges and row = # of edges.
+# I also included a converter from the simplified polynomial to an excel sheet, where it form a matrix with column = # of non-leaf edges and row = # of edges.
 
