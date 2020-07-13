@@ -8,6 +8,4 @@
 
 # I also included a converter from the simplified polynomial to an excel sheet, where it form a matrix with column = # of non-leaf edges and row = # of edges. Simply import ConvertPolytoExcelMatrix.py and use the convert_excel() function.
 
-# I've not tested the converter in its current format, but it's simple enough that I assume it will work.
-
 # Any possible improvements to the run time of the algorithm/code would be greatly appreciated
